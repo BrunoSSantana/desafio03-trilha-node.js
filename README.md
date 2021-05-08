@@ -24,5 +24,5 @@
 </p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 🚀 Em construção... 🚧
 </h4>
