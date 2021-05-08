@@ -28,10 +28,14 @@
 <h1 id="como_executar">:rocket:Como Executar</h1>
 
 
-<h1 id="tecnologias">:hammer_and_wrench:Tecnologias</h1>
+<h2 id="tecnologias">:hammer_and_wrench:Tecnologias</h2>
 
+* <a href="https://jestjs.io/" ><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/jest-3628860-3030000.png"/></a>
+* <a href="https://nodejs.org/" ><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/></a>
+* <a href="https://expressjs.com/" ><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/express-8-1175029.png"/></a>
 
-<h1 id="licenca">:memo:Licença</h1>
+<h2 id="licenca">:memo:Licença</h2>
+Este projeto está sob a licença [MIT](./LICENSE).
 
 
 <h1 id="autor">:man_technologist:Autor</h1>
