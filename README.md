@@ -37,8 +37,6 @@ Finalizar processo de desenvolvimento de uma aplicação que possui os testes ne
 - [x] DELETE/repositories/:id
 - [x] POST/repositories/:id/like
 
-### Testes
-
  
 <h2 id="como_executar">:computer: Como Executar</h2>
 
